@@ -1,20 +1,16 @@
 {
   "name": "react-number-format",
   "description": "React component to format number in an input or as a text.",
-  "version": "3.5.2",
+  "version": "3.5.3",
   "main": "lib/number_format.js",
   "author": "Sudhanshu Yadav",
   "license": "MIT",
   "types": "typings/number_format.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/s-yadav/react-number-format"
+    "url": "https://github.com/Bowery-RES/react-number-format"
   },
-  "bugs": {
-    "mail": "sudhanshuyadav2@gmail.com",
-    "url": "https://github.com/s-yadav/react-number-format/issues"
-  },
-  "keywords": [
+ "keywords": [
     "react-component",
     "react",
     "currency",
